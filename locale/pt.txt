@@ -1,0 +1,40 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_4BA1BB8A_5CE1_9FF5_41AE_E8346C21C8E8.source = https://api.whatsapp.com/send?phone=554499129424&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20virtual
+LinkBehaviour_44BECFC6_5CE2_977D_41C4_D3F6200ADED5.source = https://api.whatsapp.com/send?phone=554499129424&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20virtual
+LinkBehaviour_4AB6BA93_5CE2_9914_41D0_2A659E74D148.source = https://api.whatsapp.com/send?phone=554499129424&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20virtual
+LinkBehaviour_44BFDFCA_5CE2_9775_41D4_1B211128E59A.source = https://api.whatsapp.com/send?phone=554499129424&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20virtual
+LinkBehaviour_4B45FBC0_5CE7_9F75_41D1_5A0960FCE76D.source = https://www.instagram.com/monarome.br/
+LinkBehaviour_44BE1FCA_5CE2_9775_41BA_8919B32F78C3.source = https://www.instagram.com/monarome.br/
+LinkBehaviour_44BF8FC8_5CE2_9775_41B2_82BA6471960F.source = tel:044991294241
+LinkBehaviour_4BD6B341_5CE1_8F77_41C3_18CE51659A8C.source = tel:044991294241
+
+## Media
+
+### Audio
+audiores_4BE58E5F_5CEE_B90B_419E_BCA004B4410F.mp3Url = media/audio_480DF553_5CE1_8B1B_4173_58F90C1D2C9D_pt.mp3
+audiores_4D8B7363_5CA1_8F34_41D4_D8499AF2246A.mp3Url = media/audio_4EABE246_5CAE_897C_41C3_5EEA693E4B40_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_50D7E649_5C9E_8977_41A8_64F811436E49.label = _MGT0624-HDR Panorama
+panorama_567671AA_5C9F_8B35_41D2_734A9FF1CC03.label = _MGT0636-HDR Panorama
+panorama_5679FD48_5C9F_9B75_41B0_A1034AAA0F8D.label = _MGT0651-HDR Panorama
+
+## Skin
+
+### Image
+Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile_pt.png
+Image_3D9EF928_2C15_7557_4171_42E70FB38AA1.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_pt.png
+
+## Tour
+
+### Description
+tour.description = Faça um Tour em 360°
+
+### Title
+tour.name = MON ARÔME
